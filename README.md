@@ -13,6 +13,6 @@ A growing list of great resources for language learning applications.
 * World's best machine translation and the largest database of machine translations. 
   * High quality github module for using deepl: https://github.com/vsetka/deepl-translator
  
----
+
 # Miscellaneous:
 ## ~ [wordfreq](https://github.com/LuminosoInsight/wordfreq#sources-and-supported-languages)
